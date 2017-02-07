@@ -1,6 +1,11 @@
 # toastcolor
-Make Toast beauty and awesome more
 
-Download or clone projects >> import 'toastcolor' module to your project
+<!DOCTYPE html>
+<html>
+<body>
 
-Don't forget show() method !
+<h1>To</h1>
+<p>Make Toast beauty and awesome !</p>
+
+</body>
+</html>
