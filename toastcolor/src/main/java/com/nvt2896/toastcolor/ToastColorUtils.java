@@ -16,7 +16,7 @@ import android.view.View;
  * Created by nvt2896 on 07/02/2017.
  */
 
-public class ToastColorUtils {
+class ToastColorUtils {
 
     private ToastColorUtils() {
 
