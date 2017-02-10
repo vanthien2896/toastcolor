@@ -1,4 +1,4 @@
-package com.nvt2896.toastcolorsample;
+package com.nvt2896.toastcolor;
 
 import android.content.Context;
 import android.graphics.Color;
